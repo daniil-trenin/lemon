@@ -1,0 +1,16 @@
+img {
+	border: 4px double red;
+	width: 300px;
+}
+
+a {
+	color: green;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+footer {
+	border-bottom: 2px dashed darkblue;
+}
