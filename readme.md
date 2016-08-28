@@ -2,3 +2,4 @@
 
 1. [Задание с беготнёй](https://github.com/daniil-trenin/lemon-school/tree/master/1)
 2. [Задание с собакой](https://github.com/daniil-trenin/lemon-school/tree/master/2)
+3. [Задание с орлом](https://github.com/daniil-trenin/lemon-school/tree/master/3)
