@@ -1,0 +1,26 @@
+.content {
+	width: 400px;
+	height: 75px;
+	background-color: green;
+	margin: 30px 30px;
+	position: relative;
+}
+p {
+	padding: 25px 15px;
+	color: white;
+}
+.content::before,
+.content::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  background-color: green;
+  bottom: 5px;
+  top: 5px;
+}
+.content::before {
+  left: -5px;
+}
+.content::after {
+  right: -5px;
+}
