@@ -8,3 +8,5 @@
 6. [Домашнее задание №6](https://github.com/daniil-trenin/lemon-school/tree/master/6)
 7. [Домашнее задание №7](https://github.com/daniil-trenin/lemon-school/tree/master/7)
 8. [Домашее задание №8](https://github.com/daniil-trenin/lemon-school/tree/master/8)
+9. [Домашее задание №9](https://github.com/daniil-trenin/lemon-school/tree/master/9)
+10. [Домашее задание №10](https://github.com/daniil-trenin/lemon-school/tree/master/10)
