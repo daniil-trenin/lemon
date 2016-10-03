@@ -1,0 +1,123 @@
+@font-face{
+	font-family: 'OpenSans';
+	src: url(../fonts/OpenSans-Regular.ttf) format('truetype');
+}
+@font-face{
+	font-family: 'OpenSansExtraBold';
+	src: url(../fonts/OpenSans-ExtraBold.ttf) format('truetype');
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+.container {
+	width: 100%;
+	max-height: 61px;
+	background-color: #02918c;
+	display: block;
+}
+.container p {
+	font-weight: 800;
+	font-size: 26.8px;
+	color: #fff;
+	text-transform: uppercase;
+	margin-left: 15px;
+	
+}
+.container span {
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #cfc91d;
+}
+.navbar {
+	margin: 0;
+	border: 0;
+	border-radius: 0;
+	min-height: inherit;
+}
+.navbar-default .navbar-nav > li > a {
+	color:#fff;
+	text-transform: uppercase;
+	font-family: 'OpenSansExtraBold';
+	font-weight: 800;
+	font-size: 12px;
+}
+.navbar-brand {
+	height: auto;
+}
+.navbar-nav > li > a {
+	padding-top: 19px;
+	padding-right: 45px;
+}
+.wrap {
+	background-image: url(../images/bg.jpg);
+	height: 728px;
+	background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  margin-top: 59px;
+  
+}
+.title {
+	position: relative;
+	display: block;
+  color: #fff;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	top: 29%;
+	
+}
+.title p {
+	color: #fff;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	position: relative;
+
+}
+.title p {
+	font-family: 'OpenSansExtraBold', sans-serif;
+	margin: 0;
+}
+.title p large {
+	font-size: 30px;
+	text-align: center;
+
+}
+.title h1 {
+	font-family: 'OpenSansExtraBold', sans-serif;
+	font-weight: 800;
+	font-size: 72px;
+	line-height: 72px;
+	letter-spacing: 18px;
+	margin: 10px 0 14px;
+	text-transform: uppercase;
+}
+.title img {
+	padding: 48px 0;
+}
+.title a {
+	color: #000;
+	font-weight: 800;
+	text-transform: uppercase;
+	background-color: #cfc91d;
+	border-radius: 0;
+	min-width: 196px;
+}
+
+footer {
+	width: 100%;
+	background: #000;
+	height: 71px;
+	overflow: visible;
+}
+.cpright p {
+	color: #929292;
+	margin: 0;
+	padding-top: 30px;
+	font-family: 'Opensans';
+	text-transform: uppercase;
+}
